@@ -1,7 +1,5 @@
 package com.projeto.dslist.dto;
 
-import org.springframework.stereotype.Repository;
-
 import com.projeto.dslist.entities.Game;
 
 public class GameMinDTO {
